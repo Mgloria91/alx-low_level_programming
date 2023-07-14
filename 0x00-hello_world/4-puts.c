@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Main - A programm that prints a line with computer type
+ * main - A programm that prints a line with computer type
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
