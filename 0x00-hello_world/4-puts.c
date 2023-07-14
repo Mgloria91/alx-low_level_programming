@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Main - Entry point
+ * Main - A programm that prints a line with computer type
  *
  * Return: Always 0 (Success)
  */
