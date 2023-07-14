@@ -1,2 +1,2 @@
 #!/bin/bas
-gcc -S -masm=intel "$cfile" -o "$output_file"
+gcc -S -masm=intel  $CFILE
